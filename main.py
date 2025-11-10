@@ -10,3 +10,6 @@ def add_numbers(a, b):
 # Example usage
 result = add_numbers(5, 3)
 print(result)  
+
+result1 = add_numbers(4, 3)
+print(result1)  
